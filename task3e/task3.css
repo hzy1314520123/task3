@@ -1,0 +1,64 @@
+html{
+	font-size: 16px;
+}
+body{
+	background-color: #68cdd6;
+}
+@media only screen and (min-width: 768px) {
+	font-size:30px !important;
+}
+.return{
+	margin-left: 0.3rem;
+	background: url(../img/task3_07.png) left no-repeat ;
+	background-size:2rem;
+	height: 2.5rem;
+}
+.logo{
+	background: url(../img/task3_05.png) left no-repeat ;
+	background-position: center;
+	background-size: 6rem;
+	padding-top: 13rem;
+}
+.content{
+	width: 80%;
+	font: 0.73rem "microsoft yahei" ;
+	color: white;
+	margin: auto;
+	padding-bottom: 8rem;
+}
+.login{
+	width: 80%;
+	height: 6rem;
+	margin:auto;
+}
+.leftpart{
+	float: left;
+	height: 100%;
+	width: 40%;
+	
+}
+.rightpart{
+	float: right;
+	height: 100%;
+	width: 40%;
+
+}
+.iconone{
+	height: 80%;
+	background: url(../img/task3_03.png) no-repeat left;
+	background-size: 3.1rem;
+}
+.icontwo{
+	height: 80%;
+	background:url(../img/task3_06.png) right no-repeat;
+	background-size: 3.1rem;
+}
+.twomotion{
+	color: white;
+	float: right;
+}
+.onemotion{
+	float: left;
+	color: white;
+}
+
